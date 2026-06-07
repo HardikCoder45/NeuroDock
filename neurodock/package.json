@@ -1,0 +1,11 @@
+{
+  "dependencies": {},
+  "name": "neurodock",
+  "private": true,
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}

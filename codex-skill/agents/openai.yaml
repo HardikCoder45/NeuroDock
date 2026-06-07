@@ -1,0 +1,4 @@
+interface:
+  display_name: "NeuroDock"
+  short_description: "Dock every AI agent behind one API"
+  default_prompt: "Use $neurodock to scaffold a local agent hub, download agent repos, generate adapters, and expose streaming API/MCP/A2A access."
